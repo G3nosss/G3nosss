@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=Executing+boot_sequence.sh...;Loading+Ru+kernel+modules...;Connecting+to+AR3S+secure+cloud...;ACCESS+GRANTED.+Welcome,+G3nosss." alt="Terminal Boot" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=Executing+boot_sequence.sh...;Loading+Ru+kernel+modules...;Connecting+to+AR3S+secure+cloud...;ACCESS+GRANTED.+Welcome,+G3nosss." alt="Terminal Boot" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=300&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS%3A+ONLINE" alt="Glitch Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS%3A+ONLINE" alt="Glitch Header" />
   
   <br/>
 
