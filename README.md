@@ -1,22 +1,33 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=100&lines=Executing+boot_sequence.sh...;Loading+Ru+kernel+modules...;Connecting+to+AR3S+secure+cloud...;ACCESS+GRANTED.+Welcome,+G3nosss." alt="Terminal Boot" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Executing+boot_sequence.sh...;Loading+Ru+kernel+modules...;Connecting+to+AR3S+secure+cloud...;ACCESS+GRANTED.+Welcome,+G3nosss." alt="Terminal Boot" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM_STATUS%3A+ONLINE" alt="Glitch Header" />
-  
-  <br/>
+</div>
 
-  <div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; font-family: 'Fira Code', monospace;">
-    <span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">G3nosss</span> <span style="color: #ff7b72;">=</span> {
-    <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Cyber-Robotics Engineer"</span>,
-    <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">base</span>: <span style="color: #a5d6ff;">"Guwahati, Assam"</span>,
-    <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">mission</span>: [<span style="color: #a5d6ff;">"Build Sovereign AI (Ru)"</span>, <span style="color: #a5d6ff;">"Create Cloud IDEs (AR3S)"</span>],
-    <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">tools</span>: [<span style="color: #a5d6ff;">"Termux"</span>, <span style="color: #a5d6ff;">"Node.js"</span>, <span style="color: #a5d6ff;">"Embedded C++"</span>]
-    <br/>};
-  </div>
+<br/>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="55%" valign="center">
+        <div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; font-family: 'Fira Code', monospace;">
+          <span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">G3nosss</span> <span style="color: #ff7b72;">=</span> {
+          <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Cyber-Robotics Engineer"</span>,
+          <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">base</span>: <span style="color: #a5d6ff;">"Guwahati, Assam"</span>,
+          <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">mission</span>: [<span style="color: #a5d6ff;">"Build Sovereign AI (Ru)"</span>, <span style="color: #a5d6ff;">"Create Cloud IDEs (AR3S)"</span>],
+          <br/>&nbsp;&nbsp;<span style="color: #79c0ff;">tools</span>: [<span style="color: #a5d6ff;">"Termux"</span>, <span style="color: #a5d6ff;">"Node.js"</span>, <span style="color: #a5d6ff;">"Embedded C++"</span>]
+          <br/>};
+        </div>
+      </td>
+      <td width="45%" valign="center" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding animation"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -34,14 +45,14 @@
 
 <h3 align="left">📊 Mission Log</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G3nosss&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3nosss&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G3nosss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3nosss&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3nosss&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github.com/G3nosss/G3nosss/blob/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
