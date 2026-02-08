@@ -45,14 +45,15 @@
 
 <h3 align="left">📊 Mission Log</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G3nosss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3nosss&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G3nosss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3nosss&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <br/>
 
+<h3 align="left">🐍 Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/G3nosss/G3nosss/blob/output/github-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/G3nosss/G3nosss/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
